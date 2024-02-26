@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AppReview.iml" filepath="$PROJECT_DIR$/AppReview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/appreview-android.iml" filepath="$PROJECT_DIR$/android/appreview-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/appreview-common.iml" filepath="$PROJECT_DIR$/common/appreview-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ios/appreview-ios.iml" filepath="$PROJECT_DIR$/ios/appreview-ios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javascript/appreview-javascript.iml" filepath="$PROJECT_DIR$/javascript/appreview-javascript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javase/appreview-javase.iml" filepath="$PROJECT_DIR$/javase/appreview-javase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/appreview-lib.iml" filepath="$PROJECT_DIR$/lib/appreview-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/win/appreview-win.iml" filepath="$PROJECT_DIR$/win/appreview-win.iml" />
+    </modules>
+  </component>
+</project>

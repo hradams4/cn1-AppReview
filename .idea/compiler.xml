@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="appreview-javase" />
+        <module name="appreview-common" />
+        <module name="appreview-javascript" />
+        <module name="appreview-android" />
+        <module name="appreview-ios" />
+        <module name="appreview-win" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AppReview" target="1.8" />
+      <module name="appreview-android" target="1.8" />
+      <module name="appreview-common" target="8" />
+      <module name="appreview-ios" target="1.8" />
+      <module name="appreview-javascript" target="1.8" />
+      <module name="appreview-javase" target="1.8" />
+      <module name="appreview-lib" target="1.8" />
+      <module name="appreview-win" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
